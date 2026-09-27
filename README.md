@@ -1,6 +1,6 @@
 [README.md](https://github.com/user-attachments/files/32691871/README.md)
 # task-01-Nelson_Ashitey-
-This Github repository contains my first project assignment during my internship period at DecodeLabs
+This GitHub repository contains my first project assignment during my internship period at DecodeLabs
 # 🤖 Nel-AI: Rule-Based Chatbot
 
 A simple command-line chatbot built in Python that responds to predefined user inputs using `if-else` logic and keyword matching.
